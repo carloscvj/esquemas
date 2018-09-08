@@ -1,0 +1,26 @@
+
+Todas las cámaras son de red para no hacer instalación de cables.
+Las grabaciones se realizarán en un servidor 24 Horas al día durante 30 días.
+
+PUERTA DE ACCESO 1 CÁMARA
+Axis P1367 Cámara de Seguridad IP Interior Bala Blanco 3072 x 1728Pixeles - Cámara de vigilancia (Cámara de Seguridad IP, Interior, PTZ Digital, Bala, Blanco, Pared)
+de Axis
+EUR 850,10
+
+ASCENSOR Y PASILLOS 4 CÁMARAS
+Axis M1025 Cámara de seguridad IP Interior Caja Blanco 1920 x 1080Pixeles - Cámara de vigilancia (Cámara de seguridad IP, Interior, Caja, Blanco, Aluminio, Policarbonato, 1920 x 1080 Pixeles)
+de Axis
+EUR 371,99 X 4 = 1487,96
+
+JARDÍN 2 CÁMARAS
+Axis M1125-E Cámara de Seguridad IP Exterior Caja Blanco 1920 x 1080Pixeles - Cámara de vigilancia (Cámara de Seguridad IP, Exterior, Caja, Blanco, Pared, Polímero)
+de Axis
+EUR 483,32 X 2 = 966,64
+
+SALÓN DE ACTOS 2 CÁMARAS
+Axis M3014 - Cámara de red domo fija
+de Axis
+EUR 318,84 X 2 = 637,68
+
+TOTAL 9 CÁMARAS AXIS DE RED 3942,38 EUR A ESTO HABRÍA QUE AÑADIR EL SERVIDOR 
+OCUPACIÓN EN DISCO DURANTE 30 DÍAS 500 MG APROXIMADAMENTE
